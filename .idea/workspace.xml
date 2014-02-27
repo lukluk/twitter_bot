@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3d44b4e-fc74-498e-915a-b7299db5bf31" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/.gitignore" afterPath="$PROJECT_DIR$/../site/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/site_application/__init__.py" afterPath="$PROJECT_DIR$/../site/site_application/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/site_application/twittersentimenttracker/__init__.py" afterPath="$PROJECT_DIR$/../site/site_application/twittersentimenttracker/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/site_application/events.py" afterPath="$PROJECT_DIR$/../site/site_application/events.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../greenlet_node/greenlet_node.py" afterPath="$PROJECT_DIR$/../greenlet_node/greenlet_node.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/site_application/twittersentimenttracker/misc.py" afterPath="$PROJECT_DIR$/../site/site_application/twittersentimenttracker/misc.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/site_application/models.py" afterPath="$PROJECT_DIR$/../site/site_application/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/requirements.txt" afterPath="$PROJECT_DIR$/../site/requirements.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/site_application/twittersentimenttracker/streaming.py" afterPath="$PROJECT_DIR$/../site/site_application/twittersentimenttracker/streaming.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../greenlet_node/tests/test_greenlet_node.py" afterPath="$PROJECT_DIR$/../greenlet_node/tests/test_greenlet_node.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/site_application/tests.py" afterPath="$PROJECT_DIR$/../site/site_application/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/site_application/views.py" afterPath="$PROJECT_DIR$/../site/site_application/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../site/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\Phil\Documents\Projects\GitHub\twitter_bot\.idea\twitter_responder.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="twitter_responder.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,9 +33,7 @@
         <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="165" column="98" selection-start="4237" selection-end="4237" vertical-scroll-proportion="0.0" vertical-offset="847" max-vertical-offset="4335">
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,7 +41,7 @@
       <file leaf-file-name="twitter_bot.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/twitter_bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="161" selection-end="161" vertical-scroll-proportion="0.27037773" vertical-offset="0" max-vertical-offset="1853">
+            <state line="11" column="51" selection-start="345" selection-end="345" vertical-scroll-proportion="0.21628499" vertical-offset="102" max-vertical-offset="1853">
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -67,7 +57,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../site" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -118,13 +108,13 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_responder" />
+              <option name="myItemId" value="twitter_bot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_responder" />
+              <option name="myItemId" value="twitter_bot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -134,11 +124,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_responder" />
+              <option name="myItemId" value="twitter_bot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_responder" />
+              <option name="myItemId" value="twitter_bot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -417,29 +407,35 @@
       <created>1393057920572</created>
       <updated>1393057920572</updated>
     </task>
+    <task id="LOCAL-00001" summary="inital commit">
+      <created>1393463215055</created>
+      <updated>1393463215055</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-188" width="1936" height="1066" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.09162717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1195366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1195366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34434968" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.55277044" sideWeight="0.5003524" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5523504" sideWeight="0.5003524" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43482906" sideWeight="0.49964765" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -456,9 +452,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1195366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48294243" sideWeight="0.49964765" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48294243" sideWeight="0.49964765" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -473,6 +469,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="inital commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="inital commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -482,17 +480,13 @@
   <component name="editorHistoryManager">
     <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/TwitterAPI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="59" selection-start="5402" selection-end="5402" vertical-scroll-proportion="0.0" vertical-offset="2210" max-vertical-offset="2924">
-          <folding />
-        </state>
+        <state line="130" column="59" selection-start="5402" selection-end="5402" vertical-scroll-proportion="0.0" vertical-offset="2210" max-vertical-offset="2924" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="130" column="0" selection-start="4477" selection-end="4477" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3706">
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -521,17 +515,13 @@
     </entry>
     <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/TwitterAPI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="59" selection-start="5402" selection-end="5402" vertical-scroll-proportion="0.0" vertical-offset="2210" max-vertical-offset="2924">
-          <folding />
-        </state>
+        <state line="130" column="59" selection-start="5402" selection-end="5402" vertical-scroll-proportion="0.0" vertical-offset="2210" max-vertical-offset="2924" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="129" column="28" selection-start="4410" selection-end="4410" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3315">
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -559,9 +549,7 @@
     <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="85" column="0" selection-start="2296" selection-end="2296" vertical-scroll-proportion="0.0" vertical-offset="1290" max-vertical-offset="3791">
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -585,9 +573,7 @@
     <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="80" column="16" selection-start="2131" selection-end="2170" vertical-scroll-proportion="0.0" vertical-offset="1054" max-vertical-offset="3876">
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -611,9 +597,7 @@
     <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="74" column="25" selection-start="2142" selection-end="2142" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="2975">
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -716,23 +700,17 @@
     </entry>
     <entry file="file://C:/Anaconda/Lib/pickle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1371" column="4" selection-start="44797" selection-end="44797" vertical-scroll-proportion="0.33202356" vertical-offset="23036" max-vertical-offset="23647">
-          <folding />
-        </state>
+        <state line="1371" column="4" selection-start="44797" selection-end="44797" vertical-scroll-proportion="0.33202356" vertical-offset="23036" max-vertical-offset="23647" />
       </provider>
     </entry>
     <entry file="file://C:/Anaconda/Lib/json/decoder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="382" column="0" selection-start="13812" selection-end="13812" vertical-scroll-proportion="0.7328094" vertical-offset="6053" max-vertical-offset="6562">
-          <folding />
-        </state>
+        <state line="382" column="0" selection-start="13812" selection-end="13812" vertical-scroll-proportion="0.7328094" vertical-offset="6053" max-vertical-offset="6562" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../greenlet_node/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="509">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="509" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../greenlet_node/tests/test_greenlet_node.py">
@@ -751,18 +729,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../greenlet_node/old_Node.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="160" column="40" selection-start="5189" selection-end="5189" vertical-scroll-proportion="0.0" vertical-offset="706" max-vertical-offset="3859">
-          <folding>
-            <element signature="e#21#55#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="160" column="40" selection-start="5189" selection-end="5189" vertical-scroll-proportion="0.0" vertical-offset="706" max-vertical-offset="3859" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../greenlet_node/misc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="1467" selection-end="1467" vertical-scroll-proportion="0.6455982" vertical-offset="513" max-vertical-offset="2516">
-          <folding />
-        </state>
+        <state line="49" column="0" selection-start="1467" selection-end="1467" vertical-scroll-proportion="0.6455982" vertical-offset="513" max-vertical-offset="2516" />
       </provider>
     </entry>
     <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/__init__.py">
@@ -774,9 +746,7 @@
     </entry>
     <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/TwitterAPI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="40" selection-start="3015" selection-end="3015" vertical-scroll-proportion="0.8623025" vertical-offset="672" max-vertical-offset="2856">
-          <folding />
-        </state>
+        <state line="66" column="40" selection-start="3015" selection-end="3015" vertical-scroll-proportion="0.8623025" vertical-offset="672" max-vertical-offset="2856" />
       </provider>
     </entry>
     <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/constants.py">
@@ -789,22 +759,18 @@
     <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="165" column="98" selection-start="4237" selection-end="4237" vertical-scroll-proportion="0.0" vertical-offset="847" max-vertical-offset="4335">
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/twitter_bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="161" selection-end="161" vertical-scroll-proportion="0.27037773" vertical-offset="0" max-vertical-offset="1853">
+        <state line="11" column="51" selection-start="345" selection-end="345" vertical-scroll-proportion="0.21628499" vertical-offset="102" max-vertical-offset="1853">
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>

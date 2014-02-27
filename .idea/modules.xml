@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../greenlet_node/.idea/greenlet_node.iml" filepath="$PROJECT_DIR$/../greenlet_node/.idea/greenlet_node.iml" />
       <module fileurl="file://$PROJECT_DIR$/../site/.idea/site.iml" filepath="$PROJECT_DIR$/../site/.idea/site.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/twitter_responder.iml" filepath="$PROJECT_DIR$/.idea/twitter_responder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/twitter_bot.iml" filepath="$PROJECT_DIR$/.idea/twitter_bot.iml" />
     </modules>
   </component>
 </project>
