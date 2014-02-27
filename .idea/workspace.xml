@@ -48,10 +48,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twitter_responder.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/twitter_responder.py">
+      <file leaf-file-name="twitter_bot.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/twitter_bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="161" selection-end="161" vertical-scroll-proportion="0.26930693" vertical-offset="0" max-vertical-offset="1853">
+            <state line="8" column="0" selection-start="161" selection-end="161" vertical-scroll-proportion="0.27037773" vertical-offset="0" max-vertical-offset="1853">
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -175,7 +175,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="twitter_responder" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twitter_responder.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Phil\Documents\Projects\GitHub\twitter_responder\twitter_bot.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -432,7 +432,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34434968" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.55277044" sideWeight="0.5003524" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4339019" sideWeight="0.49964765" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43482906" sideWeight="0.49964765" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -496,7 +496,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_responder.py">
+    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="20" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1955">
           <folding>
@@ -535,7 +535,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_responder.py">
+    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="87" column="88" selection-start="2423" selection-end="2423" vertical-scroll-proportion="0.0" vertical-offset="1479" max-vertical-offset="1734">
           <folding>
@@ -603,7 +603,7 @@
         <state line="8" column="7" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="629" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_responder.py">
+    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="22" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0" vertical-offset="472" max-vertical-offset="1768" />
       </provider>
@@ -617,7 +617,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_responder.py">
+    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="9" selection-start="860" selection-end="860" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="714" />
       </provider>
@@ -637,7 +637,7 @@
         <state line="38" column="22" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="2703" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_responder.py">
+    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="20" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="442" />
       </provider>
@@ -657,7 +657,7 @@
         <state line="38" column="22" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="2703" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_responder.py">
+    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="13" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340" />
       </provider>
@@ -677,7 +677,7 @@
         <state line="38" column="22" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="2703" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_responder.py">
+    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="374" />
       </provider>
@@ -802,9 +802,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_responder.py">
+    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="161" selection-end="161" vertical-scroll-proportion="0.26930693" vertical-offset="0" max-vertical-offset="1853">
+        <state line="8" column="0" selection-start="161" selection-end="161" vertical-scroll-proportion="0.27037773" vertical-offset="0" max-vertical-offset="1853">
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
