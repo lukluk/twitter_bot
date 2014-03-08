@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3d44b4e-fc74-498e-915a-b7299db5bf31" name="Default" comment="" />
+    <list default="true" id="e3d44b4e-fc74-498e-915a-b7299db5bf31" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Greenlet_node/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Greenlet_node/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_twitter_bot.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/Twitter_bot.iml" afterPath="$PROJECT_DIR$/.idea/Twitter_bot.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/__init__.py" afterPath="$PROJECT_DIR$/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Site/application.py" afterPath="$PROJECT_DIR$/../Site/application.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Greenlet_node/greenlet_node.py" afterPath="$PROJECT_DIR$/../Greenlet_node/greenlet_node.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Greenlet_node/misc.py" afterPath="$PROJECT_DIR$/../Greenlet_node/misc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Site/site_application/models.py" afterPath="$PROJECT_DIR$/../Site/site_application/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Site/requirements.txt" afterPath="$PROJECT_DIR$/../Site/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twitter_bot.py" afterPath="$PROJECT_DIR$/twitter_bot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Site/site_application/views.py" afterPath="$PROJECT_DIR$/../Site/site_application/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="twitter_responder.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,22 +43,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="greenlet_node.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
+      <file leaf-file-name="application.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Site/application.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="165" column="98" selection-start="4237" selection-end="4237" vertical-scroll-proportion="0.0" vertical-offset="847" max-vertical-offset="4335">
+            <state line="14" column="48" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twitter_bot.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/twitter_bot.py">
+      <file leaf-file-name="greenlet_node.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Greenlet_node/greenlet_node.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="51" selection-start="345" selection-end="345" vertical-scroll-proportion="0.093406595" vertical-offset="102" max-vertical-offset="1853">
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state line="12" column="7" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4658">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Greenlet_node/misc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="93" column="31" selection-start="2534" selection-end="2534" vertical-scroll-proportion="0.53846157" vertical-offset="1309" max-vertical-offset="2312">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_misc.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Greenlet_node/tests/test_misc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="40" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="578">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Site/site_application/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="4" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="4199">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Site/site_application/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="387" column="41" selection-start="11781" selection-end="11781" vertical-scroll-proportion="0.0" vertical-offset="6511" max-vertical-offset="6953">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,7 +114,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Site" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -63,14 +126,44 @@
         <option value="$PROJECT_DIR$/../greenlet_node/old_Node.py" />
         <option value="$PROJECT_DIR$/../greenlet_node/greenlet_node.py" />
         <option value="$PROJECT_DIR$/twitter_responder.py" />
+        <option value="$PROJECT_DIR$/twitter_bot.py" />
+        <option value="$PROJECT_DIR$/../site/site_application/templates/dashboard/navbar_dashboard_side.html" />
+        <option value="$PROJECT_DIR$/../site/site_application/templates/dashboard/layout_dashboard.html" />
+        <option value="$PROJECT_DIR$/../site/site_application/templates/dashboard/layout_dashboard_base.html" />
+        <option value="$PROJECT_DIR$/../site/site_application/templates/dashboard/layout_dashboard_main.html" />
+        <option value="$PROJECT_DIR$/../site/site_application/templates/dashboard/overview.html" />
+        <option value="$PROJECT_DIR$/../site/site_application/templates/dashboard/twitter_sentiment_tracker.html" />
+        <option value="$PROJECT_DIR$/../site/site_application/templates/dashboard/tracking_page.html" />
+        <option value="$PROJECT_DIR$/../site/site_application/templates/dashboard/help.html" />
+        <option value="$PROJECT_DIR$/../site/site_application/templates/dashboard/sentiment_classifier.html" />
+        <option value="$PROJECT_DIR$/../site/site_application/__init__.py" />
+        <option value="$PROJECT_DIR$/../site/application.py" />
+        <option value="$PROJECT_DIR$/../site/site_application/views.py" />
+        <option value="$PROJECT_DIR$/../site/site_application/events.py" />
+        <option value="$PROJECT_DIR$/../site/site_application/models.py" />
+        <option value="$PROJECT_DIR$/../site/site_application/startup.py" />
+        <option value="$PROJECT_DIR$/../site/site_application/tests.py" />
+        <option value="$PROJECT_DIR$/../site/requirements.txt" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/../greenlet_node/requirements.txt" />
+        <option value="$PROJECT_DIR$/../site/site_application/twittersentimenttracker/nbayesclassifier.py" />
+        <option value="$PROJECT_DIR$/tests/__init__.py" />
+        <option value="$PROJECT_DIR$/tests/test_twitter_bot.py" />
+        <option value="$PROJECT_DIR$/../Site/requirements.txt" />
+        <option value="$PROJECT_DIR$/../Site/site_application/models.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/../Site/application.py" />
+        <option value="$PROJECT_DIR$/../Site/site_application/views.py" />
+        <option value="$PROJECT_DIR$/../Greenlet_node/greenlet_node.py" />
+        <option value="$PROJECT_DIR$/../Greenlet_node/misc.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1432" />
-    <option name="y" value="-188" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="x" value="77" />
+    <option name="y" value="1" />
+    <option name="width" value="1308" />
+    <option name="height" value="870" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -102,27 +195,31 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_bot" />
+              <option name="myItemId" value="Twitter_bot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_bot" />
+              <option name="myItemId" value="Twitter_bot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="greenlet_node" />
+              <option name="myItemId" value="Greenlet_node" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_bot" />
+              <option name="myItemId" value="Twitter_bot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="twitter_bot" />
+              <option name="myItemId" value="Greenlet_node" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -132,7 +229,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../site" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../greenlet_node" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
@@ -140,14 +237,38 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="SearchEverywhereHistory" value="&#10;is+&#10;raise&#10;()" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.twitter_responder">
-    <configuration default="false" name="twitter_responder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Phil\Documents\Projects\GitHub\site\site_application\templates\dashboard" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_misc">
+    <configuration default="false" name="application" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../site" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="greenlet_node" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../site/application.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="twitter_bot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -158,46 +279,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="twitter_responder" />
-      <option name="SCRIPT_NAME" value="C:\Users\Phil\Documents\Projects\GitHub\twitter_responder\twitter_bot.py" />
+      <module name="greenlet_node" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twitter_bot.py" />
       <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="test_misc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="application (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../greenlet_node/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Site" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="site" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../greenlet_node/tests/test_misc.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="test_greenlet_node" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../greenlet_node/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="site" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../greenlet_node/tests/test_greenlet_node.py" />
+      <module name="Site" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Site/application.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -210,30 +311,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../greenlet_node" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Greenlet_node" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="site" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../greenlet_node/misc.py" />
+      <module name="Site" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Greenlet_node/misc.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="greenlet_node" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test_misc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../greenlet_node" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Greenlet_node/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="site" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../greenlet_node/greenlet_node.py" />
+      <module name="Site" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Greenlet_node/tests/test_misc.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -361,19 +462,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.twitter_responder" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test_misc" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test_greenlet_node" />
+      <item index="0" class="java.lang.String" itemvalue="Python.application" />
+      <item index="1" class="java.lang.String" itemvalue="Python.twitter_bot" />
+      <item index="2" class="java.lang.String" itemvalue="Python.application (1)" />
       <item index="3" class="java.lang.String" itemvalue="Python.misc" />
-      <item index="4" class="java.lang.String" itemvalue="Python.greenlet_node" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_misc" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.twitter_responder" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_greenlet_node" />
-        <item index="2" class="java.lang.String" itemvalue="Python.greenlet_node" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test_misc" />
-        <item index="4" class="java.lang.String" itemvalue="Python.misc" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test_misc" />
+        <item index="1" class="java.lang.String" itemvalue="Python.misc" />
+        <item index="2" class="java.lang.String" itemvalue="Python.application (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.application" />
+        <item index="4" class="java.lang.String" itemvalue="Python.twitter_bot" />
       </list>
     </recent_temporary>
   </component>
@@ -408,28 +509,49 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="1432" y="-188" width="1936" height="1066" extended-state="6" />
+    <frame x="77" y="1" width="1308" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.09162717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1195366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25570416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34434968" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5523504" sideWeight="0.5003524" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43482906" sideWeight="0.49964765" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43243244" sideWeight="0.5003934" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36756757" sideWeight="0.4996066" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32837838" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -446,9 +568,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1195366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48294243" sideWeight="0.49964765" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -472,174 +594,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/TwitterAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="59" selection-start="5402" selection-end="5402" vertical-scroll-proportion="0.0" vertical-offset="2210" max-vertical-offset="2924" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="0" selection-start="4477" selection-end="4477" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3706">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="20" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1955">
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/tests/test_greenlet_node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="7" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="799">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="442">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/TwitterAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="59" selection-start="5402" selection-end="5402" vertical-scroll-proportion="0.0" vertical-offset="2210" max-vertical-offset="2924" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="28" selection-start="4410" selection-end="4410" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="88" selection-start="2423" selection-end="2423" vertical-scroll-proportion="0.0" vertical-offset="1479" max-vertical-offset="1734">
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/tests/test_greenlet_node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="918">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/tests/test_misc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="50" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="646" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="0" selection-start="2296" selection-end="2296" vertical-scroll-proportion="0.0" vertical-offset="1290" max-vertical-offset="3791">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/tests/test_greenlet_node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="867">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/misc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="0" selection-start="2252" selection-end="2252" vertical-scroll-proportion="0.0" vertical-offset="1411" max-vertical-offset="2278" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/tests/test_misc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="50" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="646" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="16" selection-start="2131" selection-end="2170" vertical-scroll-proportion="0.0" vertical-offset="1054" max-vertical-offset="3876">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/tests/test_greenlet_node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="867">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/misc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="7" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="629" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="22" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0" vertical-offset="472" max-vertical-offset="1768" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="25" selection-start="2142" selection-end="2142" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="2975">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="9" selection-start="860" selection-end="860" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="714" />
-      </provider>
-    </entry>
-    <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="34" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="442" />
-      </provider>
-    </entry>
-    <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/TwitterAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="23" selection-start="3914" selection-end="3914" vertical-scroll-proportion="0.0" vertical-offset="1870" max-vertical-offset="2958" />
-      </provider>
-    </entry>
-    <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/constants.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="22" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="2703" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="20" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="442" />
-      </provider>
-    </entry>
-    <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="34" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="442" />
-      </provider>
-    </entry>
-    <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/TwitterAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="60" selection-start="1557" selection-end="1557" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="2958" />
-      </provider>
-    </entry>
-    <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/constants.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="22" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="2703" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340" />
-      </provider>
-    </entry>
     <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="34" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="442" />
@@ -672,7 +626,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../site/site_application/twittersentimenttracker/streaming.py">
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/twittersentimenttracker/streaming.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="0" selection-start="1027" selection-end="1027" vertical-scroll-proportion="-3.0069325" vertical-offset="2449" max-vertical-offset="3043" />
       </provider>
@@ -682,12 +636,7 @@
         <state line="10" column="7" selection-start="213" selection-end="213" vertical-scroll-proportion="0.29462737" vertical-offset="0" max-vertical-offset="1122" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/tests/test_misc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="33" selection-start="404" selection-end="404" vertical-scroll-proportion="0.41074523" vertical-offset="1" max-vertical-offset="578" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../site/site_application/node/node.py">
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/node/node.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="131" column="17" selection-start="3733" selection-end="3763" vertical-scroll-proportion="0.60855263" vertical-offset="1587" max-vertical-offset="2499" />
       </provider>
@@ -702,40 +651,19 @@
         <state line="382" column="0" selection-start="13812" selection-end="13812" vertical-scroll-proportion="0.7328094" vertical-offset="6053" max-vertical-offset="6562" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/__init__.py">
+    <entry file="file://$PROJECT_DIR$/../Greenlet_node/tests/test_greenlet_node.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="509" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/tests/test_greenlet_node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="27" selection-start="338" selection-end="338" vertical-scroll-proportion="0.36738703" vertical-offset="0" max-vertical-offset="748">
-          <folding />
-        </state>
+        <state line="17" column="27" selection-start="338" selection-end="338" vertical-scroll-proportion="0.36738703" vertical-offset="0" max-vertical-offset="748" />
       </provider>
     </entry>
     <entry file="file://C:/Anaconda/Lib/site-packages/gevent/greenlet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="326" column="0" selection-start="11421" selection-end="11421" vertical-scroll-proportion="0.0" vertical-offset="5312" max-vertical-offset="8024">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/old_Node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="160" column="40" selection-start="5189" selection-end="5189" vertical-scroll-proportion="0.0" vertical-offset="706" max-vertical-offset="3859" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/misc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="1467" selection-end="1467" vertical-scroll-proportion="0.6455982" vertical-offset="513" max-vertical-offset="2516" />
+        <state line="326" column="0" selection-start="11421" selection-end="11421" vertical-scroll-proportion="0.0" vertical-offset="5312" max-vertical-offset="8024" />
       </provider>
     </entry>
     <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="80" selection-start="269" selection-end="269" vertical-scroll-proportion="0.34537247" vertical-offset="0" max-vertical-offset="443">
-          <folding />
-        </state>
+        <state line="9" column="80" selection-start="269" selection-end="269" vertical-scroll-proportion="0.34537247" vertical-offset="0" max-vertical-offset="443" />
       </provider>
     </entry>
     <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/TwitterAPI.py">
@@ -745,29 +673,223 @@
     </entry>
     <entry file="file://C:/Anaconda/Lib/site-packages/TwitterAPI/constants.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="23" selection-start="662" selection-end="662" vertical-scroll-proportion="-0.08352145" vertical-offset="513" max-vertical-offset="2703">
+        <state line="28" column="23" selection-start="662" selection-end="662" vertical-scroll-proportion="-0.08352145" vertical-offset="513" max-vertical-offset="2703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/templates/dashboard/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/templates/dashboard/navbar_dashboard_side.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="24" selection-start="484" selection-end="484" vertical-scroll-proportion="-5.8846154" vertical-offset="119" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/templates/dashboard/twitter_sentiment_tracker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="178" column="11" selection-start="5964" selection-end="5964" vertical-scroll-proportion="-21.923077" vertical-offset="2456" max-vertical-offset="3230" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/templates/dashboard/tracking_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="39" selection-start="173" selection-end="173" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="1003" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/templates/dashboard/sentiment_classifier.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="30" selection-start="1333" selection-end="1333" vertical-scroll-proportion="-8.5" vertical-offset="374" max-vertical-offset="1802" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/templates/dashboard/overview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="14" selection-start="261" selection-end="261" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/templates/dashboard/layout_dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="846" selection-end="846" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="578" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/templates/dashboard/layout_dashboard_base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/templates/dashboard/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="828" selection-end="828" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="391" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/startup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="258" max-vertical-offset="833" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="40" selection-start="73" selection-end="73" vertical-scroll-proportion="0.035940804" vertical-offset="0" max-vertical-offset="1853" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="0.14376321" vertical-offset="0" max-vertical-offset="473" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/templates/dashboard/layout_dashboard_main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="22" selection-start="156" selection-end="156" vertical-scroll-proportion="0.30425057" vertical-offset="0" max-vertical-offset="447" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/templates/dashboard/help.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="0.18162394" vertical-offset="0" max-vertical-offset="468" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="28" selection-start="307" selection-end="307" vertical-scroll-proportion="0.4473684" vertical-offset="0" max-vertical-offset="494">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../greenlet_node/greenlet_node.py">
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/templates/dashboard/navbar_dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="165" column="98" selection-start="4237" selection-end="4237" vertical-scroll-proportion="0.0" vertical-offset="847" max-vertical-offset="4335">
+        <state line="0" column="41" selection-start="41" selection-end="41" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Greenlet_node/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="5" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="5" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="31" selection-end="31" vertical-scroll-proportion="0.04761905" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Greenlet_node/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_twitter_bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="20" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="119">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/twittersentimenttracker/nbayesclassifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="15" selection-start="1734" selection-end="1734" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="5083">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/twittersentimenttracker/misc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="32" selection-start="932" selection-end="932" vertical-scroll-proportion="-0.35729387" vertical-offset="628" max-vertical-offset="1122">
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/twittersentimenttracker/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Greenlet_node/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="25" selection-start="47" selection-end="47" vertical-scroll-proportion="0.103238866" vertical-offset="0" max-vertical-offset="494">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505" />
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="494">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter_bot.py">
+    <entry file="file://C:/Anaconda/Lib/site-packages/socketio/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="51" selection-start="345" selection-end="345" vertical-scroll-proportion="0.093406595" vertical-offset="102" max-vertical-offset="1853">
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state line="18" column="8" selection-start="425" selection-end="425" vertical-scroll-proportion="-2.0" vertical-offset="1020" max-vertical-offset="3094">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="48" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="387" column="41" selection-start="11781" selection-end="11781" vertical-scroll-proportion="0.0" vertical-offset="6511" max-vertical-offset="6953">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Site/site_application/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="4" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="4199">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Greenlet_node/tests/test_misc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="40" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Greenlet_node/greenlet_node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="7" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4658">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Greenlet_node/misc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="31" selection-start="2534" selection-end="2534" vertical-scroll-proportion="0.53846157" vertical-offset="1309" max-vertical-offset="2312">
+          <folding />
         </state>
       </provider>
     </entry>

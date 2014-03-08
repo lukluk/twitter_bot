@@ -4,8 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="greenlet_node" />
-    <orderEntry type="module" module-name="site" />
+    <orderEntry type="module" module-name="Greenlet_node" />
+    <orderEntry type="module" module-name="Site" />
+    <orderEntry type="module" module-name="Greenlet_node" />
+    <orderEntry type="module" module-name="Greenlet_node" />
   </component>
 </module>
 

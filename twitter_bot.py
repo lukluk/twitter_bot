@@ -7,13 +7,6 @@ import TwitterAPI
 from gevent import monkey
 monkey.patch_all()
 
-auth = {'access_token_key': os.environ['TW_ACCESS_TOKEN_2'],
-        'access_token_secret': os.environ['TW_ACCESS_TOKEN_SECRET_2'],
-        'consumer_key': os.environ['TW_API_KEY_2'],
-        'consumer_secret': os.environ['TW_API_SECRET_2']}
-
-api = TwitterAPI.TwitterAPI(**auth)
-
 
 class Tweet(object):
     __slots__ = ('id', 'url', 'hashtag', 'response')
@@ -27,11 +20,12 @@ class Tweet(object):
 
 class TweetNode(Node):
 
-    def __init__(self, *args, **kwargs):
+    def __init__(self, twitter_api, *args, **kwargs):
         Node.__init__(self, *args, **kwargs)
         self.hashtag = "scoreme"
 
-        self.connect(api.request('user').get_iterator().__iter__(), type="input")
+        self.twitter_api = twitter_api
+        self.connect(self.twitter_api.request('user').get_iterator().__iter__(), type="input")
 
         self.start()
 
@@ -41,7 +35,7 @@ class TweetNode(Node):
             return packet is not None and \
                    packet.get('text') is not None and \
                    packet['entities'].get('hashtags') is not None and \
-                   self.hashtag in set([ht.get('text') for ht in packet['entities'].get('hashtags')]) and \
+                   self.hashtag in {ht.get('text') for ht in packet['entities'].get('hashtags')} and \
                    packet['entities'].get('urls') is not None
 
         except AttributeError:
@@ -59,14 +53,16 @@ class TweetNode(Node):
             return packet
 
     def _do_output(self, packet):
-        GooglePageSpeedAPINode(starting_packets=[packet], timeout_seconds=20)
+        GooglePageSpeedAPINode(self.twitter_api, starting_packets=[packet], timeout_seconds=20)
 
 
 class GooglePageSpeedAPINode(NodeEventLoop):
 
-    def __init__(self, max_attempts=3, *args, **kwargs):
+    def __init__(self, twitter_api, max_attempts=3, *args, **kwargs):
 
         self.max_attempts = max_attempts
+
+        self.twitter_api = twitter_api
 
         proxy = os.environ['QUOTAGUARDSTATIC_URL']
         self.proxy_dict = {"http": proxy, "https": proxy, "ftp": proxy}
@@ -94,10 +90,18 @@ class GooglePageSpeedAPINode(NodeEventLoop):
 
     def _do_output(self, packet):
 
-        api.request('statuses/update', {'status': 'The website %r has a score of %r' %
-                                                  (packet.url, packet.response.get('score')),
-                                        "in_reply_to_status_id": id})
+        self.twitter_api.request('statuses/update', {'status': 'The website %r has a score of %r' %
+                                                               (packet.url, packet.response.get('score')),
+                                                     "in_reply_to_status_id": packet.id})
+if __name__ == "__main__":
 
-T = TweetNode(run_frequency=1)
-while True:
-    gevent.sleep(1)
+    auth = {'access_token_key': os.environ['TW_ACCESS_TOKEN_2'],
+            'access_token_secret': os.environ['TW_ACCESS_TOKEN_SECRET_2'],
+            'consumer_key': os.environ['TW_API_KEY_2'],
+            'consumer_secret': os.environ['TW_API_SECRET_2']}
+
+    api = TwitterAPI.TwitterAPI(**auth)
+
+    T = TweetNode(run_frequency=1, twitter_api=api)
+    while True:
+        gevent.sleep(1)
